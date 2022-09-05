@@ -3,6 +3,7 @@
 **Desc**: Ngab is an adolescent boy well-known for his ability to solve thousands of hard riddles out there. When he just got back from his pilgrimage, Ngab found a note on his desk. 
 >O' dear my apprentice, if thou are back from thy pilgrim, can thou correct this wallpaper maker for me? It is a widescreen-ratio up to full hd one, this should be easy right? Thanks as always. "Damn, you old man" Ngab says.
 
+## Steps:
 Given a corrupted .png file. After opening the hex file it appears the bytes of the file are reversed, so we need to reverse it.
 
 After the image is reconstructed, a black-white image is appeared. My first impression is to convert the image into a binary of 0 and 1 with https://www.dcode.fr/binary-image. Then decode the binary to ascii with CyberChef and we get an URL that leads to another .jpg image (m00n.jpg)
