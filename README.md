@@ -1,2 +1,2 @@
 # ctf-writeups
-CTF Write Up Summaries
+CTF Write Up
