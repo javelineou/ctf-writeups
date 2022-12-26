@@ -92,7 +92,7 @@ e = 19
 c = not so big ciphertext
 
 ### Steps:
-It is a vulnerability where it happens that m^e^ mod n =  m^e^. 
+It is a vulnerability where it happens that m<sup>e</sup> mod n =  m<sup>e</sup>. 
 https://crypto.stackexchange.com/questions/80311/attack-rsa-with-very-big-module-n-and-very-small-e-7
 https://github.com/S-H-E-L-L/DeconstructCTF/blob/main/crypto/RSA-2.md
 ```
