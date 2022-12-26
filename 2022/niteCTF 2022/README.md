@@ -115,7 +115,7 @@ To access the main code/functions, we can open the ``Assembly-CSharp.dll`` with 
 
 After take a look all the functions, I can conclude that every 10 points, the Flagchar functions will be called and return a letter. At this point, I can just open the Flagchar function one by one and write the letters but that would be no fun.
 
-So I tried to modify the gameplay and play the modified game. For instance, I found this Spike class which controls the spike gravity. It looks like that gravity of the spike is incremented ``+=`` every time. So, I made it decremented ``+-`` until eventually the spike didn't even show xD.
+So I tried to modify the gameplay and play the modified game. For instance, I found this Spike class which controls the spike gravity. It looks like that gravity of the spike is incremented ``+=`` every time. So, I made it decremented ``-=`` until eventually the spike didn't even show xD.
 
 ![spike func](https://user-images.githubusercontent.com/63649797/209476543-a840f368-af82-41c2-b162-8ffc56df0d7c.JPG)
 
