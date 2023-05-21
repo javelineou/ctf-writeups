@@ -4,15 +4,18 @@ I only did OSINT challenges because when I joined the CTF it was 2 hours left re
 ## OSINT
 ### It All Ads Up
 People think I'm a sports guy but I really just love all the advertisements! Problem is, I take so many pictures, I can't remember where I got them! Can you find this one for me?
+![image](https://github.com/javelineou/ctf-writeups/assets/63649797/981e0cd7-fa9c-4d72-91cd-931a317a12a4)
 
-
+The pic obviously shows a hockey arena. Google/Duckduckgo the "sponsors/ads + hockey arena", will reveal the arena that is chosen.
 ```
 byuctf{honda_center}
 ```
 
 ### It All Ads Up 2
 Aargh! It happened again! I need to know where these ads came from!
-(img)
+![image](https://github.com/javelineou/ctf-writeups/assets/63649797/b5b1e9a2-440b-4476-92b4-3d6ba0ffe1e7)
+
+Same steps as previous challenge.
 ```
 byuctf{Crypto.com_Arena}
 ```
